@@ -55,3 +55,19 @@
   display: flex;
   justify-content: center;
 }
+
+.red {
+  border: 50px solid red;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin: 10px 10px;
+}
+
+.yellow {
+  border: 50px solid yellow;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin: 10px 10px;
+}
